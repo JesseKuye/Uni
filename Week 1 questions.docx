@@ -1,0 +1,45 @@
+Questions:
+1. What is a code repository (often also called version control system) used for? 
+
+Code repository is used to store your source code and any related files or documents. It is also used to deal with handling programs written in different versions of a particular language.
+
+
+2. Why is it advantageous to use a code repository?
+
+Code repository is advantageous because it allows developers to collaborate on projects without worrying about which version of the programming language they’re working in.
+
+
+3. Describe the different “layers” of Software that exist on a typical computer and explain why there are different layers of software. 
+
+Application software: This is the software most of us are familiar with. It’s what we use to perform a whole raft of tasks on the computer.
+
+System software: This is software that works “behind the scenes” and interacts primarily with the hardware devices that make up the computer.
+
+The reason for having both is that the commands we put into the computer need to be translated into language it understands.
+
+
+4. Describe what an algorithm is and explain why it is a useful “tool” to translate from a human level problem (we can think of) to a computer program. 
+
+An algorithm is a set of human language instructions used to solve a given problem or complete a given task.
+
+
+5. Write an algorithm that describes how to make scrambled eggs, try to use control words, like IF, WHEN, UNTIL, WHILE, WAIT, AND, OR.
+
+Get a bowl
+Take two eggs,
+Crack the eggs into a bowl
+Add a splash of milk
+Add a pinch of salt
+Add pepper
+Whisk until thoroughly mixed
+Get a pan
+Add a little butter to the pan
+Heat the pan on medium heat until butter melts
+Pour the egg mixture into the pan
+Stir occasionally until desired consistency is achieved
+Serve
+
+
+6. Is Idle (the Python language shell) an Interpreter or a Compiler or both? Explain your answer. 
+
+I would say both because you can open a new window that allows you to input multiple commands before the computer executes them.
